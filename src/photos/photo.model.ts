@@ -1,4 +1,4 @@
-// src/photos/photo.model.ts
+
 import { Table, Column, Model, DataType, ForeignKey, BelongsTo } from 'sequelize-typescript';
 import { User } from 'src/users/user.model';
 
