@@ -1,4 +1,4 @@
-// src/admin/admin.service.ts
+
 import { Injectable } from '@nestjs/common';
 import { InjectModel } from '@nestjs/sequelize';
 import { Photo } from '../photos/photo.model';
