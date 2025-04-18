@@ -1,4 +1,4 @@
-// src/photos/photo.controller.ts
+
 import {
   Controller,
   Post,
