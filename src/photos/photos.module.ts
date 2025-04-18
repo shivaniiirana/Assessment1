@@ -1,4 +1,4 @@
-// src/photos/photo.module.ts
+
 import { Module } from '@nestjs/common';
 import { SequelizeModule } from '@nestjs/sequelize';
 import { Photo } from './photo.model';
